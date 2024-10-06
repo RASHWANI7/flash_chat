@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107416748408",
+    "project_id": "flashchat4-fbecc",
+    "storage_bucket": "flashchat4-fbecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107416748408:android:721124a3d7bf2e4e39488d",
+        "android_client_info": {
+          "package_name": "com.Abode.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPkt2dTLuoci1SH7fzN564EDK1DCjMcFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
